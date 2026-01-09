@@ -2,6 +2,114 @@
 FileName = UWB_board.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom Paste
+      File : UWB_board.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Ground
+      File : UWB_board.G4
+
+    Adding Layer      : Bottom Ground
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D31
+    D32
+    D34
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Filling
+      File : UWB_board.GM4
+
+    Adding Layer      : Filling
+
+
+Used DCodes :
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : UWB_board.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D31
+    D32
+    D33
+    D34
+    D36
+    D37
+    D40
+    D41
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Capping
+      File : UWB_board.GM5
+
+    Adding Layer      : Capping
+
+
+Used DCodes :
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Mid Layer
+      File : UWB_board.G2
+
+    Adding Layer      : Mid Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D31
+    D32
+    D34
+    D36
+    D37
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
 Generating : Top Overlay
       File : UWB_board.GTO
 
@@ -18,25 +126,60 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Mid Layer
-      File : UWB_board.G2
+Generating : Top Ground
+      File : UWB_board.G1
 
-    Adding Layer      : Mid Layer
+    Adding Layer      : Top Ground
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D29
+    D31
+    D32
+    D34
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : UWB_board.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : UWB_board.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
     D31
     D32
     D33
-    D36
-    D37
-    D38
-    D39
-    D41
-    D42
+    D34
     D43
+    D44
+    D45
+    D46
+    D47
 *************************************************************
 
 *************************************************************
@@ -63,115 +206,24 @@ Used DCodes :
     D25
     D26
     D27
-    D28
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : UWB_board.GTL
+Generating : MCU_3V3
+      File : UWB_board.G3
 
-    Adding Layer      : Top Layer
+    Adding Layer      : MCU_3V3
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
+    D29
     D31
     D32
-    D33
-    D35
-    D36
-    D37
-    D38
-    D39
+    D34
     D40
     D41
-    D42
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : UWB_board.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D31
-    D32
-    D33
-    D35
-    D36
-    D37
-    D38
-    D39
-    D42
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : UWB_board.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D44
-    D45
-    D46
-    D47
-    D48
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : UWB_board.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D44
-    D45
-    D46
-    D47
-    D48
 *************************************************************
 
 *************************************************************
@@ -192,6 +244,7 @@ Used DCodes :
     D19
     D20
     D21
+    D22
     D23
     D24
     D25
@@ -204,23 +257,43 @@ Used DCodes :
     D32
     D33
     D34
-    D35
-    D36
-    D37
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : UWB_board.GBO
+Generating : Top Layer
+      File : UWB_board.GTL
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D10
-    D12
-    D13
-    D15
+    D11
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D29
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
 *************************************************************
 
 *************************************************************

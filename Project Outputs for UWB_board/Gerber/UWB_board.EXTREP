@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: UWB_board.GBR   03.12.2025  19:44:42
+Gerber File Extension Report For: UWB_board.GBR   09.01.2026  20:31:13
 ------------------------------------------------------------------------------------------
 
 
@@ -10,10 +10,15 @@ Layer Extension     Layer Description
 .GTP                Top Paste                               
 .GTS                Top Solder                              
 .GTL                Top Layer                               
+.G1                 Top Ground                              
 .G2                 Mid Layer                               
+.G3                 MCU_3V3                                 
+.G4                 Bottom Ground                           
 .GBL                Bottom Layer                            
 .GBS                Bottom Solder                           
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
+.GM4                Filling                                 
+.GM5                Capping                                 
 .GM                 Profile                                 
 ------------------------------------------------------------------------------------------

@@ -305,23 +305,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WRTSPJTQ
 
 [Document16]
-DocumentPath=Sensors.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=10
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PTIQLEIE
-
-[Document17]
 DocumentPath=UWB_board.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -339,78 +322,238 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for UWB_board\UWB_board-NonPlated.TXT
+DocumentPath=Project Outputs for UWB_board\BOM\Bill of Materials-UWB_board.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for UWB_board\UWB_board-Plated.TXT
+DocumentPath=Project Outputs for UWB_board\Pick Place\Pick Place for UWB_board.csv
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for UWB_board\UWB_board.DRR
+DocumentPath=Project Outputs for UWB_board\NC Drill\UWB_board-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for UWB_board\UWB_board.EXTREP
+DocumentPath=Project Outputs for UWB_board\UWB_board-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for UWB_board\UWB_board.G1
+DocumentPath=Project Outputs for UWB_board\NC Drill\UWB_board-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GBL
+DocumentPath=Project Outputs for UWB_board\UWB_board-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GBO
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GBP
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GBS
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.3
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GM
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.4
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GP1
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.5
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GP2
+DocumentPath=Project Outputs for UWB_board\NC Drill\UWB_board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GP3
+DocumentPath=Project Outputs for UWB_board\UWB_board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GTL
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GTO
+DocumentPath=Project Outputs for UWB_board\UWB_board.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GTP
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.G1
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for UWB_board\UWB_board.GTS
+DocumentPath=Project Outputs for UWB_board\UWB_board.G1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for UWB_board\UWB_board.LDP
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.G2
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.G3
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.G4
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GM
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GM
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GM4
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GM20
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GML
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GP3
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for UWB_board\UWB_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for UWB_board\NC Drill\UWB_board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for UWB_board\UWB_board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for UWB_board\Gerber\UWB_board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument59]
 DocumentPath=Project Outputs for UWB_board\UWB_board.REP
 DItemRevisionGUID=
 
@@ -462,6 +605,20 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
+
+[Generic_SignalIntegritySimulation]
+SignalIntegrityInitialised=-1
+TrackImpedance=100
+TrackLength=20000000
+UseManhattan=-1
+UseSupplyNetsRules=-1
+SupplyNetsCount=0
+UseStimulusRules=-1
+StimKind=1
+StimLevel=0
+StimStartTime=1E-8
+StimStopTime=6E-8
+StimPeriodTime=1E-7
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1438,8 +1595,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=Schlib1.SchLib
-ComponentDesignItemID0=DWM1000
-ComponentSymbolReference0=DWM1000
+ComponentDesignItemID0=LSM6DSVTR
+ComponentSymbolReference0=LSM6DSVTR
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1459,26 +1616,24 @@ ParameterName0=Comment
 ParameterUpdate0=1
 ParameterName1=Component Kind
 ParameterUpdate1=1
-ParameterName2=Datasheet Link
+ParameterName2=Copyright
 ParameterUpdate2=1
 ParameterName3=Description
 ParameterUpdate3=1
-ParameterName4=Geometry.Height
+ParameterName4=Library Reference
 ParameterUpdate4=1
-ParameterName5=Library Reference
+ParameterName5=Manufacturer_Name
 ParameterUpdate5=1
-ParameterName6=Manufacturer_Name
+ParameterName6=Manufacturer_Part_Number
 ParameterUpdate6=1
-ParameterName7=Manufacturer_Part_Number
+ParameterName7=RefDes
 ParameterUpdate7=1
-ParameterName8=Mouser Part Number
+ParameterName8=Type
 ParameterUpdate8=1
-ParameterName9=Mouser Price/Stock
-ParameterUpdate9=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=DWM1000
+ModelName0=LGA14-L_2p59x3P1x0P5_STM
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
